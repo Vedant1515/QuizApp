@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Semantic colors overridden for dark mode -->
+    <color name="background">#121212</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="option_default">#2C2C2C</color>
+    <color name="option_text">#FFFFFF</color>
+    <color name="progress_bg">#333333</color>
+</resources>
